@@ -1,2 +1,2 @@
 # Group4SeminarQML
-Results and Code of Seminar QML 2023 (Visser, de Vries, Dassen, Gachara)
+Results of Seminar QML 2023 (Visser, de Vries, Dassen, Gachara)
